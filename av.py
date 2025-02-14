@@ -4,3 +4,4 @@ if print ('helloo'):
    print ('Have a nice day!!')
 else:
    print (s + 'enjoy [edited in github]')
+   print ('I love you')
