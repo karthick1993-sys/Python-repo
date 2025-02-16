@@ -7,3 +7,4 @@ else:
    print ('I love you')
 
 To create a pull request test use case i am just editing this in the dev branch
+I am editing this file to check the git fetch command
